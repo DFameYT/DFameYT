@@ -1,6 +1,13 @@
 ### Hi There 👋 !
 
-I am Uzi, an international student from Sri Lanka studying current in Australia at Swinburne University.
+I am Uzi, an international student from Sri Lanka studying current Bachelors of Computer Science Majoring in Game Dev at Swinburne University, Australia Melbourne.
+
+- 💖 love to self-learn new stuff.
+- 🤓 self-learnt web development, graphic design, video editing and game development.
+- 💼 any freelance work? do reach to me on [Twitter](https://twitter.com/UzmanShafi)
+
+![uzmanshafi's GitHub Stats][github-stats-img]
+
 
 <a href="https://www.instagram.com/uzim4n/">
   <img align="left" alt="Uzman's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -14,4 +21,4 @@ I am Uzi, an international student from Sri Lanka studying current in Australia 
   <img align="left" alt="Uzman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=uzmanshafi.visitor-badge&left_color=purple&right_color=blue&left_text=Hello%20Visitors)
+
