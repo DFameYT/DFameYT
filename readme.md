@@ -1,4 +1,4 @@
-### Hi There 👋 !
+### Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" /> !
 
 I am Uzi, an international student from Sri Lanka studying current Bachelors of Computer Science Majoring in Game Dev at Swinburne University, Australia Melbourne.
 
@@ -6,7 +6,7 @@ I am Uzi, an international student from Sri Lanka studying current Bachelors of 
 - 🤓 self-learnt web development, graphic design, video editing and game development.
 - 💼 any freelance work? do reach to me on [Twitter](https://twitter.com/UzmanShafi)
 
-![uzmanshafi's GitHub Stats][github-stats-img]
+
 
 
 <a href="https://www.instagram.com/uzim4n/">
