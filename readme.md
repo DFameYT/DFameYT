@@ -1,22 +1,22 @@
-### Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" /> !
+### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Uzi, an international student from Sri Lanka studying current Bachelors of Computer Science Majoring in Game Dev at Swinburne University, Australia Melbourne.
+I'm Uzi, a Bachelor of Computer Science student majoring in Game Development at Swinburne University in Melbourne, Australia. Hailing from Sri Lanka, I'm passionate about exploring new technologies and self-learning.
 
-- 💖 love to self-learn new stuff.
-- 🤓 self-learnt web development, graphic design, video editing and game development.
-- 💼 any freelance work? do reach to me on [Twitter](https://twitter.com/UzmanShafi)
+- 💻 I'm currently working on [My Game Capstone Project](https://github.com/uzmanshafi/GAM30002---SWE40001-GAMES-CAPSTONE-PROJECT) 
+- 🎮 I have self-learnt web development, graphic design, video editing, and game development
+- 👨‍💻 Open for freelance projects: [Contact me on Twitter](https://twitter.com/UzmanShafi)
 
-##### Hobbies
+#### Hobbies
 
-- Competitive Gaming
-- Anime
-- Binging Movies & TV Shows
-- Retro Console Collecting
+- 🎯 Competitive Gaming: Helps me understand game dynamics and user engagement strategies.
+- 📺 Binging Movies & TV Shows: Sharpens my storytelling skills for game narrative development.
+- 🕹 Retro Console Collecting: Gives me insights into the evolution of gaming consoles and their impact on game design.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzmanshafi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-________________________________________________________________________________________________________________________________________________________
-<p align="center"> <u> Socials </u> </p>
+---
+
+#### Connect with me:
 
 <p align="center">
   
@@ -34,6 +34,11 @@ ________________________________________________________________________________
   
 </p>
 
+---
 
- 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/uzmanshafi/count.svg" />
+</p>
 
+---
