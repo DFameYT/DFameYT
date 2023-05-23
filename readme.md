@@ -11,12 +11,18 @@ I'm Uzi, a Bachelor of Computer Science student majoring in Game Development at 
 - 🎯 Competitive Gaming: Helps me understand game dynamics and user engagement strategies.
 - 📺 Binging Movies & TV Shows: Sharpens my storytelling skills for game narrative development.
 - 🕹 Retro Console Collecting: Gives me insights into the evolution of gaming consoles and their impact on game design.
+<h3>Things I code with</h3>
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzmanshafi&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
----
 
 #### Connect with me:
 
