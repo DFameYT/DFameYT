@@ -14,6 +14,8 @@ I'm Uzi, a Bachelor of Computer Science student majoring in Game Development at 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzmanshafi&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 ---
 
 #### Connect with me:
