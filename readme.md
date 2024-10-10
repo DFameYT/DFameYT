@@ -23,16 +23,16 @@ I'm Uzi, a Bachelor of Computer Science student majoring in Game Development at 
   <img alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzmanshafi&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzmanshafi&layout=compact&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Some of my projects</h3>
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uzmanshafi&repo=AI-Cat-and-Mouse-Unity-Game" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uzmanshafi&repo=AI-Cat-and-Mouse-Unity-Game&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uzmanshafi&repo=GAM30002-SWE40001-Arcade-Capture" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uzmanshafi&repo=GAM30002-SWE40001-Arcade-Capture&theme=gruvbox" />
 </a>
 
 #### Connect with me:
